@@ -32,26 +32,35 @@ My professional experience is mainly focused on ERP systems and banking software
 
 ## Featured Projects
 
-### MobileSearch
+### Playwright UI Automation Framework
+TypeScript-based UI automation framework using Playwright Test, Page Object Model, cross-browser execution, HTML reporting and GitHub Actions CI.
 
-Java/Selenium/TestNG automation project focused on search flow validation, UI automation and result analysis.
+**Tech stack:** TypeScript, Playwright, Page Object Model, GitHub Actions
 
-**Tech stack:** Java, Selenium WebDriver, TestNG, Maven, WebDriverManager
+### Python API Test Automation Framework
+Python-based API automation framework using pytest, requests, reusable API clients, fixtures, parametrized tests, JSON schema validation and CI.
 
-### Python Teaching Exercises
+**Tech stack:** Python, pytest, requests, jsonschema, GitHub Actions
 
-Python exercises and small educational projects created as part of my work with students and practical programming sessions.
+### ISO 20022 camt.053 Test Data Generator
+Java console application for generating synthetic camt.053-style XML account statement test data with configurable transactions and automated closing balance calculation.
 
-**Focus areas:** Python fundamentals, data structures, problem solving, small applications
+**Tech stack:** Java, XML DOM API, BigDecimal, banking test data generation
 
-### camt.053 Test Data Generator
+### RestAssured Reqres API Automation
+Java-based API automation project using RestAssured, TestNG and Maven for public REST API testing practice.
 
-Java-based internal-style test data generator for banking account statement scenarios.
+**Tech stack:** Java, RestAssured, TestNG, Maven
 
-The tool demonstrates XML test data generation, configurable transaction data, CRDT/DBIT logic and automated balance calculation for banking QA scenarios.
+### eCommerce Cucumber BDD Automation
+Java Selenium/Cucumber BDD automation project for login and customer management flows.
 
-**Tech stack:** Java, XML, BigDecimal, test data generation
+**Tech stack:** Java, Selenium, Cucumber, Gherkin, Maven, TestNG
 
+### MobileSearch UI Automation
+Java Selenium/TestNG UI automation project for search flow validation and result analysis on mobile.bg.
+
+**Tech stack:** Java, Selenium WebDriver, TestNG, Maven
 ## Current Career Focus
 
 I am focused on growing further in QA Automation, SDET and Quality Engineering roles where I can combine:
