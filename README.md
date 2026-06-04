@@ -73,5 +73,6 @@ I am focused on growing further in QA Automation, SDET and Quality Engineering r
 
 ## Contact
 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/petar-nikolov-a53ab7202/
 - GitHub: github.com/petiokasmetio
+- Email: petar.nikolov718@gmail.com
