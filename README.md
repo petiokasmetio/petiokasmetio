@@ -1,24 +1,34 @@
 # Petar Nikolov
 
-Test Automation Engineering Analyst with 5 years of experience across ERP and banking systems.
+SDET / QA Automation Engineer with 5 years of experience in enterprise software, ERP systems, banking applications, web automation, API testing, and quality engineering.
 
-I work with Java, Python, Selenium, test automation, defect analysis, regression testing, XML test data generation and QA process improvements for complex business-critical systems.
+I build practical test automation solutions using Playwright, Selenium WebDriver, Java, Python, TypeScript, pytest, TestNG, Maven, RestAssured, and GitHub Actions.
 
-My professional experience is mainly focused on ERP systems and banking software, where I combine testing, technical analysis, automation mindset and business domain understanding.
+My work combines manual testing, automation engineering, defect investigation, test-data preparation, regression testing, API validation, and business-domain understanding.e is mainly focused on ERP systems and banking software, where I combine testing, technical analysis, automation mindset and business domain understanding.
 
 ## Core Skills
 
-- Java
-- Python
-- Selenium WebDriver
-- TestNG / Maven
-- API testing fundamentals
-- XML test data generation
-- Regression testing
-- Defect analysis
-- ERP system testing
-- Banking software testing
-- AI-assisted QA tooling
+Playwright and TypeScript
+Selenium WebDriver
+Java and Python
+REST API test automation
+pytest, TestNG, Maven, and RestAssured
+Page Object Model
+Cucumber BDD and Gherkin
+GitHub Actions CI
+Regression and functional testing
+Defect reproduction and investigation
+XML test-data generation
+ERP and banking software testing
+
+## Available For
+
+Hourly QA / SDET support
+UI and API test automation
+Playwright and Selenium framework development
+Regression and release testing
+Bug reproduction and technical QA reports
+Part-time and project-based QA work
 
 ## Domain Experience
 
